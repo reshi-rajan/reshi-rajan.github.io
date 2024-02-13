@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Reshi Rajan"
+  site-url: 'https://www.reshi-rajan.github.io'
+  description: 'Reshi Rajan Political Science Website'
+  favicon: 'site.png'
+  page-footer: 
+    left: "Copyright 2024 Reshi Rajan" 
+    right: 
+      - icon: github
+        href: https://github.com/reshi-rajan
+      - icon: mailbox
+        href: mailto:rrajan@tamu.edu/
+      - icon: twitter 
+        href: https://twitter.com/rrajan01 
+  navbar:
+    left: 
+      - icon: github
+    right:
+      - href: index.qmd
+        text: Home
+      - Research.qmd
+      - CV.qmd
+      - teaching.qmd
+
+format:
+  html:
+    theme: hugo-theme-nix
+    css: nix.css
+    toc: true
+    linkcolor: maroon

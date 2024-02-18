@@ -3,4 +3,4 @@ title: "CV"
 resources: 'C:\Users\reshi\Documents\RStudio\reshi-rajan.github.io\cv_files\Rajan_CV_January_2024.pdf'
 ---
 
-My CV can be found [here](https://1drv.ms/b/s!AqgsL3oz1dqk7nYiyw0t1Kaze37q?e=Vk9xb3).
+My CV can be found [here](https://1drv.ms/b/s!AqgsL3oz1dqk7wHBI3MQBNbtcetr?e=jX7s1o).

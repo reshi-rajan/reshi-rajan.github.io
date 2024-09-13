@@ -4,7 +4,9 @@ title: "Teaching"
 
 #### Current Courses
 
-N/A
+*TA*
+
+[POLS 209: Introduction to Political Research Methods](https://github.com/reshi-rajan/pols-209-fall24) \[Fall 2024, Prof. Illayda Onder\]
 
 #### Past Courses
 

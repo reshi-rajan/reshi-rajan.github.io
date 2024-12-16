@@ -140,13 +140,14 @@ i {
   	justify-content: center; /* Center the content horizontally */
   	align-items: center; /* Vertically center the content */
   	width: 100%;
-  	padding: 20px; /* Adjust padding as needed */
+  	padding: 0px; /* Adjust padding as needed */
 }
 
 .footer p, .footer a { /* Target footer text and links */
-  margin: 0 10px; /* Add spacing between elements */
+  margin: 0 ; /* Add spacing between elements */
   white-space: nowrap; /* Prevent text wrapping */
 }
+
 .col-centered{
 	float: none;
 	margin: 0 auto;

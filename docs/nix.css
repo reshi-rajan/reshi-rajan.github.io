@@ -134,22 +134,11 @@ i {
 	margin: 0 auto;
 }
 
-.quarto-footer {
-  display: flex;
-  flex-wrap: wrap; /* Wrap content to a new line if it doesn't fit */
-  justify-content: space-between; /* Distribute space between items */
-  align-items: center; /* Vertically center items */
-}
-
-.quarto-footer a {
-  margin: 0 10px; /* Add spacing between icons */
-}
-
 .footer {
 	background-color: #F5F5F5;
 	display: flex;
 	flex-direction: row;
-	justify-content: space-between; /* Adjust spacing as needed */;
+	justify-content: center;
 	width: 100%;
 	padding: 0px;
 }

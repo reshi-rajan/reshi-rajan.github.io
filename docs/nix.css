@@ -17,6 +17,10 @@ body {
 	font-size: 50px;
 }
 
+img {
+ 	max-width: 100%;
+}
+
 .flex-wrapper {
 	display: flex;
   	min-height: 100vh;
@@ -143,6 +147,7 @@ i {
   margin: 0 ; /* Add spacing between elements */
   white-space: nowrap; /* Prevent text wrapping */
 }
+
 
 .col-centered{
 	float: none;

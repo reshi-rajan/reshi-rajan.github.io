@@ -8,7 +8,7 @@ website:
   description: 'Reshi Rajan Political Science Website'
   favicon: 'site.png'
   page-footer: 
-    left: "Copyright 2024 Reshi Rajan" 
+    left: "Copyright © 2024 Reshi Rajan" 
     right: 
       - icon: github
         href: https://github.com/reshi-rajan

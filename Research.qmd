@@ -12,6 +12,6 @@ My MA thesis looked at which voters follow How To Vote cards in Australia; it ca
 
 1.  Does Toothless Compulsory Voting Increase Turnout? Evidence from India *with Shane P. Singh*
 
-2.  Modeling Ideological Polarization: Spatial Modeling of Ideological Shifts
+2.  Ballot Box Blues: How Compulsory Voting Weakens the Impact of Economic Voting
 
-3.  Predicting Coalition Formation Using Notions of p-adic distance
+3.  Rage Against the Machine: What Australian Voters Can Tell Us About Rank-Choice Voting’s Implications

@@ -136,18 +136,17 @@ i {
 
 .footer {
 	background-color: #F5F5F5;
-  	display: flex;
-  	justify-content: center; /* Center the content horizontally */
-  	align-items: center; /* Vertically center the content */
-  	width: 100%;
-  	padding: 0px; /* Adjust padding as needed */
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	width: 100%;
+	padding: 0px;
 }
 
-.footer p, .footer a { /* Target footer text and links */
-  margin: 0 ; /* Add spacing between elements */
-  white-space: nowrap; /* Prevent text wrapping */
+.footer p {
+	margin: 0 !important;
+	font-size: initial;
 }
-
 
 .col-centered{
 	float: none;

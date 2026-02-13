@@ -47,8 +47,7 @@ nav {
 	padding-bottom: 0 !important;
 }
 
-.dropdown-menu li {
-}
+.dropdown-menu li {}
 
 h1,h2,h3,h4,h5,h6 {
 	font-family: 'Trebuchet MS, sans-serif;
@@ -99,7 +98,7 @@ i {
 	padding: 0 5px 0 5px;
 }
 
-.post-summary, .post-content{
+.post-summary, .post-content {
 	clear: both;
 }
 
@@ -138,17 +137,17 @@ i {
 	background-color: #F5F5F5;
 	display: flex;
 	justify-content: center;
-	align-items: center; /* Vertically center the content */
+	align-items: center;
 	width: 100%;
 	padding: 0px;
 }
 
-.footer p, .footer a { /* Target footer text and links */
-  margin: 0 ; /* Add spacing between elements */
-  white-space: nowrap; /* Prevent text wrapping */
+.footer p, .footer a {
+  margin: 0;
+  white-space: nowrap;
 }
 
-.col-centered{
+.col-centered {
 	float: none;
 	margin: 0 auto;
 }
@@ -158,12 +157,10 @@ div p {
 }
 
 td {
-	margin: 0 20px 0 20px;
+	margin: 0 20px;
 }
 
-/*
- * Some font-size tweaks for smaller screens
- */
+/* Font-size tweaks for smaller screens */
 @media screen and (max-width: 480px) {
 	.user-social {
 		font-size: 50%;
@@ -198,4 +195,44 @@ td {
 	.dropdown-menu li {
 		font-size: 80%;
 	}
+}
+
+/* ---------------------------------------------------------
+   CUSTOM FIXES FOR ABOUT PAGE ON MOBILE
+   --------------------------------------------------------- */
+
+@media (max-width: 600px) {
+
+  /* Force the layout order: image → text → social links */
+  .about-contents {
+    display: flex !important;
+    flex-direction: column !important;
+  }
+
+  .about-image {
+    order: 1 !important;
+  }
+
+  .about-body {
+    order: 2 !important;
+  }
+
+  .about-links {
+    order: 3 !important;
+    margin-top: 1rem !important;
+    text-align: center !important;
+  }
+
+  /* Shrink the social buttons */
+  .about-links a {
+    padding: 4px 8px !important;
+    font-size: 0.7em !important;
+    line-height: 1.1 !important;
+  }
+
+  /* Shrink the icons */
+  .about-links i {
+    margin: 0 6px !important;
+    font-size: 0.9em !important;
+  }
 }

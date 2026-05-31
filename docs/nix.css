@@ -236,3 +236,10 @@ td {
     font-size: 0.9em !important;
   }
 }
+
+.footer a .ai-google-scholar {
+    font-size: 1.55rem !important; /* Makes it match the GitHub icon size */
+    vertical-align: middle !important; 
+    position: relative;
+    top: -5px; /* Safely pulls it up to line up perfectly on the baseline */
+}

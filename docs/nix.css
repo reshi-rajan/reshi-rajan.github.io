@@ -242,6 +242,11 @@ td {
     font-family: "bootstrap-icons";
     font-size: 1.25rem;
     display: inline-block;
-    padding-left: 20px; /* Perfectly matches the spacing of GitHub/Mailbox */
-    vertical-align: middle;
+    
+    /* Matches your existing 'i' tag styling exactly */
+    margin: 10px 0px 10px 20px; 
+    color: #333;
+    
+    /* Perfect alignment baseline */
+    vertical-align: top; 
 }

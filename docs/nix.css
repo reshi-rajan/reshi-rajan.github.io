@@ -236,17 +236,3 @@ td {
     font-size: 0.9em !important;
   }
 }
-
-.footer a[href*="scholar.google.com"]::before {
-    content: "\f46b"; /* Bootstrap Icon code for a graduation cap */
-    font-family: "bootstrap-icons";
-    font-size: 1.25rem;
-    display: inline-block;
-    
-    /* Matches your existing 'i' tag styling exactly */
-    margin: 10px 0px 10px 20px; 
-    color: #333;
-    
-    /* Perfect alignment baseline */
-    vertical-align: top; 
-}

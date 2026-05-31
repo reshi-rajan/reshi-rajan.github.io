@@ -236,3 +236,12 @@ td {
     font-size: 0.9em !important;
   }
 }
+
+.footer a[href*="scholar.google.com"]::before {
+    content: "\f46b"; /* Bootstrap Icon code for a graduation cap */
+    font-family: "bootstrap-icons";
+    font-size: 1.25rem;
+    display: inline-block;
+    padding-left: 20px; /* Perfectly matches the spacing of GitHub/Mailbox */
+    vertical-align: middle;
+}

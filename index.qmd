@@ -1,9 +1,9 @@
 ---
-title: "Reshi Rajan"
+title: "Reshikesav (Reshi) Rajan"
 image: profile_photo.jpg
 toc: false 
 about: 
-  template: jolla
+  template: trestles
   image-shape: round
   image-width: 20em
   links:
@@ -11,10 +11,16 @@ about:
       href: https://github.com/reshi-rajan
     - text: Email
       href: mailto:rrajan@tamu.edu
-    - text: Twitter
-      href: https://twitter.com/rrajan01
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=9Xz2JXUAAAAJ&hl=en&oi=sra
 ---
 
-::: {.border}
-Howdy! I am Reshi Rajan, a PhD student in the [Department of Political Science](https://bush.tamu.edu/pols/) at Texas A&M University's [Bush School of Government](https://bush.tamu.edu/) in College Station, Texas. My research interests are primarily in the intersection of comparative political behavior & institutions — specifically the effects institutional arrangements have on voters — and quantitative methodology — particularly maximum likelihood estimation and time-series, spatial, and panel/TSCS data analysis. I completed my B.A. in [International Affairs](https://spia.uga.edu/) with a minor in [Mathematics](https://www.math.uga.edu/) from the University of Georgia in 2023 as well as my M.A. in [Political Science](https://spia.uga.edu/degree/master-of-arts-ma-in-political-science-international-affairs/). In addition to my research interests in political science, my interests in pure mathematics focus on Number Theory, specifically arithmetic in the Quaternions.
+::: about-text
+Howdy! I am a PhD student in the [Department of Political Science](https://bush.tamu.edu/pols/) at Texas A&M University's [Bush School of Government](https://bush.tamu.edu/) in College Station, Texas. My substantive research interests are primarily within comparative politics; I complement this with research interests in political methodology.
+
+My substantive research interests lie at the intersection of comparative political behavior and political economy. I seek to understand how individuals view and interpret economic conditions and political institutions, and how these perceptions shape patterns of electoral behavior. Methodologically, my interests center on quantitative approaches, with particular emphasis on maximum likelihood estimation, generalized linear models, instrumental variables, and the analysis of time‑series, spatial, and panel data.
+
+I completed my B.A. in [International Affairs](https://spia.uga.edu/) with a minor in [Mathematics](https://www.math.uga.edu/) from the University of Georgia in 2023 as well as my M.A. in [Political Science](https://spia.uga.edu/degree/master-of-arts-ma-in-political-science-international-affairs/).
 :::
+
+<!-- On the off chance you want a border on your about text, change it to be border instead of about-text. -->

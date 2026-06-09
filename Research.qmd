@@ -2,16 +2,21 @@
 title: "Research"
 ---
 
-My research interests are currently focused on the intersection of comparative political behavior & institutions and quantitative methodology. My substantive interests specifically looks at the ways in which institutional arrangements and policies shape voters' preferences among parties. I supplement this with methodological research questions about the ways to improve our ability to estimate regression models with a particular emphasis on time-series, spatial, and time-series cross-sectional data.
+My research currently focuses on both substantive and methodological interests. My substantive interests are in comparative political behavior and political economy, specifically looking at how electoral behavior is affected by economic institutions and features. I supplement this with methodological research questions focused on the ways we can improve our ability to estimate and interpret regression models with a particular emphasis on time-series, spatial, and time-series cross-sectional data and instrumental variable designs.
 
-#### MA Thesis
+#### Publications
 
-My MA thesis looked at which voters follow How To Vote cards in Australia; it can be found at this [link](https://www.dropbox.com/scl/fi/uizfw3nk0pakdmg86ei3w/Rajan_CV_December_2024.pdf?rlkey=x2bogp1dcyv7hjo3pu0r9dgwr&st=v4cfq4hb&dl=0).
+1.  Rajan, Reshikesav, and Shane P. Singh. 2025. “Toothless compulsory voting can increase turnout: Evidence from India.” Electoral Studies 96:102951. <https://doi.org/10.1016/j.electstud.2025.102951>.
+    - Featured in [UGA Today](https://news.uga.edu/toothless-compulsory-voting-can-increase-voter-turnout/) and [ScienceBlog](https://scienceblog.com/unenforced-voting-laws-can-still-boost-turnout/).
+
+#### Software
+
+tseffects: Software to estimate dynamic (causal) inferences and dynamic interaction effects with Soren Jordan and Garrett N. Vande Kamp.
 
 #### Works in Progress
 
-1.  Does Toothless Compulsory Voting Increase Turnout? Evidence from India *with Shane P. Singh*
+1.  Causal Inference with Integrated Time Series using Differenced Variables with Soren Jordan and Garrett N. Vande Kamp. *Under Review.*
 
-2.  Ballot Box Blues: How Compulsory Voting Weakens the Impact of Economic Voting
+2.  Compulsory Voting Weakens the Impact of Economic Voting
 
-3.  Rage Against the Machine: What Australian Voters Can Tell Us About Rank-Choice Voting’s Implications
+3.  Visualizing the Dynamic Conditional Marginal Effects of Dynamic Regression Models with Multiplicative Interactions with Soren Jordan and Garrett N. Vande Kamp

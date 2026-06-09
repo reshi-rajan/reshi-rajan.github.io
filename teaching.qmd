@@ -2,15 +2,30 @@
 title: "Teaching"
 ---
 
+I have served as a teaching assistant for the courses listed below. If you are seeking resources from POLS 209 or POLS 309, please click the link to the GitHub repository for it. If you are seeking resources from the other courses, please [email](mailto:rrajan@tamu.edu) me.
+
 #### Current Courses
+
+**TA - Undergraduate Level**
 
 N/A
 
+**TA - Graduate Level**
+
+Introduction to Time Series and Panel Data Analysis \[ICPSR Summer Program 2026, Ann Arbor, MI, Prof. Clay Webb\]
 
 #### Past Courses
 
-*TA*
+**TA - Graduate Level**
 
-[POLS 209: Introduction to Political Research Methods](https://github.com/reshi-rajan/pols-209-fall24) \[Fall 2024, Prof. Illayda Onder\]
+POLS 603: Quantitative Political Analysis II (MLE & GLMs) \[Spring 2026, Prof. Crisman-Cox\]
+
+**TA - Undergraduate Level**
+
+POLS 309: Polimetrics \[[Spring 2026](https://github.com/reshi-rajan/pols-309-spring26), Prof. Crisman-Cox\]
+
+POLS 308: Game Theoretic Models in Political Science \[Fall 2025, Prof. Matt Malis\]
+
+POLS 209: Introduction to Political Research Methods \[[Fall 2024](https://github.com/reshi-rajan/pols-209-fall24), [Fall 2025](https://github.com/reshi-rajan/pols-209-fall25), Prof. Illayda Onder\]
 
 POLS 200: Foundations of Political Science \[Fall 2023, Prof. Todd Kent\]

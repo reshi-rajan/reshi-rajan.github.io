@@ -8,14 +8,14 @@ website:
   description: 'Reshi Rajan Political Science Website'
   favicon: 'site.png'
   page-footer: 
-    left: "Copyright © 2024 Reshi Rajan" 
+    left: "Copyright © 2026 Reshi Rajan" 
     right: 
       - icon: github
         href: https://github.com/reshi-rajan
       - icon: mailbox
         href: mailto:rrajan@tamu.edu/
-      - icon: twitter 
-        href: https://twitter.com/rrajan01 
+      - text: "{{< ai google-scholar >}}"
+        href: https://scholar.google.com/citations?hl=en&user=9Xz2JXUAAAAJ
   navbar:
     left: 
       - icon: github
